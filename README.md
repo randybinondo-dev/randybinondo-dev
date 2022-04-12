@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-randybinondo-dev/randybinondo-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Alt text](./default-monochrome-white.svg)
 <img src="./default-monochrome-white.svg">
+
+<!---
+randybinondo-dev/randybinondo-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
